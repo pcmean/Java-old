@@ -1,0 +1,4 @@
+class goaway implements Runnable
+{
+  
+}
